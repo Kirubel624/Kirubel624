@@ -3,7 +3,7 @@ Full-stack software engineer with 4 years of experience building and shipping pr
  
 Recently wrapped up a year at **Groupos** (US remote), where I led a full Material-UI → shadcn/ui migration across the admin platform, built the Members Map module from scratch (geospatial discovery, viewport-based filtering, inline chat), and integrated CometChat to replace the platform's legacy messaging system.
  
-Before that, I built **Applizy** end-to-end at Stafrica — client dashboard, marketing site, full Node.js/Express backend with PostgreSQL, real-time messaging via Socket.io, Stripe subscriptions, and DigitalOcean deployment. Earlier roles included fintech work at LakiPay (merchant dashboards, secure payment flows) and an IoT project at RDX where I built a transformer monitoring system using Arduino sensors, a Node.js backend, and a React dashboard for remote device control.
+Before that, I built **Applizy** end-to-end at Stafrica - client dashboard, marketing site, full Node.js/Express backend with PostgreSQL, real-time messaging via Socket.io, Stripe subscriptions, and DigitalOcean deployment. Earlier roles included fintech work at LakiPay (merchant dashboards, secure payment flows) and an IoT project at RDX where I built a transformer monitoring system using Arduino sensors, a Node.js backend, and a React dashboard for remote device control.
  
 See my work at [kirubelberhanu.com](https://kirubelberhanu.com). Open to new full-stack engineering opportunities.
 
