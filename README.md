@@ -5,7 +5,7 @@ Recently wrapped up a year at **Groupos** (US remote), where I led a full Materi
  
 Before that, I built **Applizy** end-to-end at Stafrica — client dashboard, marketing site, full Node.js/Express backend with PostgreSQL, real-time messaging via Socket.io, Stripe subscriptions, and DigitalOcean deployment. Earlier roles included fintech work at LakiPay (merchant dashboards, secure payment flows) and an IoT project at RDX where I built a transformer monitoring system using Arduino sensors, a Node.js backend, and a React dashboard for remote device control.
  
-Currently building my personal portfolio at [kirubelberhanu.com](https://kirubelberhanu.com). Open to new full-stack engineering opportunities.
+See my work at [kirubelberhanu.com](https://kirubelberhanu.com). Open to new full-stack engineering opportunities.
 
 
 ## 🌐 Socials:
