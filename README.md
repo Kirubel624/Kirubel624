@@ -1,7 +1,7 @@
 # 💫 About Me:
 Full-stack software engineer with 4 years of experience building and shipping production web and mobile applications across fintech, community SaaS, and enterprise domains.
 
-Recently wrapped up a year at **Groupos** (US remote), where I led a full Material-UI → shadcn/ui migration across the admin platform, built the Members Map module from scratch — including geospatial discovery, viewport-based filtering, and inline chat — and integrated CometChat to replace the platform's legacy messaging system.
+Recently wrapped up a year at **Groupos** (US remote), where I led a full Material-UI → shadcn/ui migration across the admin platform, built the Members Map module from scratch including geospatial discovery, viewport-based filtering, and inline chat and integrated CometChat to replace the platform's legacy messaging system.
 
 Before that, I built **Applizy** end-to-end at Stafrica, covering the client dashboard, marketing site, Node.js/Express backend, PostgreSQL data layer, real-time messaging with Socket.io, Stripe subscriptions, and DigitalOcean deployment. Earlier, I worked on fintech products at **LakiPay** and an IoT transformer-monitoring system at **RDX**, using Arduino sensors, Node.js, and React.
 
